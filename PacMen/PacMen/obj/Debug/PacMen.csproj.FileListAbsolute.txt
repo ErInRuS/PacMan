@@ -1,0 +1,7 @@
+C:\Users\Doshi\source\repos\PacMen\PacMen\bin\Debug\PacMen.exe.config
+C:\Users\Doshi\source\repos\PacMen\PacMen\bin\Debug\PacMen.exe
+C:\Users\Doshi\source\repos\PacMen\PacMen\bin\Debug\PacMen.pdb
+C:\Users\Doshi\source\repos\PacMen\PacMen\obj\Debug\PacMen.csproj.AssemblyReference.cache
+C:\Users\Doshi\source\repos\PacMen\PacMen\obj\Debug\PacMen.csproj.CoreCompileInputs.cache
+C:\Users\Doshi\source\repos\PacMen\PacMen\obj\Debug\PacMen.exe
+C:\Users\Doshi\source\repos\PacMen\PacMen\obj\Debug\PacMen.pdb
