@@ -99,11 +99,11 @@ namespace PacMan
                         {
                             case 0:
                                 return;
-                            case 1:
+                            case 2:
                                 Console.Clear();
                                 PressAnyButton();
                                 break;
-                            case 2:
+                            case 1:
                                 Process.Start(name);
                                 break;
                         }  
